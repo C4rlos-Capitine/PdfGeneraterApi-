@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "KkwAQDGwz4XDFIqO/R0WnJUCGw47y1v/q1gBbUdgxFY=",
+  "Source": "PdfGeneraterApi",
+  "BasePath": "_content/PdfGeneraterApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PdfGeneraterApi\\wwwroot",
+      "Source": "PdfGeneraterApi",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\PdfGeneraterApi\\PdfGeneraterApi\\wwwroot\\",
+      "BasePath": "_content/PdfGeneraterApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\PdfGeneraterApi\\PdfGeneraterApi\\wwwroot\\rotativa\\wkhtmltoimage.exe",
+      "SourceId": "PdfGeneraterApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\PdfGeneraterApi\\PdfGeneraterApi\\wwwroot\\",
+      "BasePath": "_content/PdfGeneraterApi",
+      "RelativePath": "rotativa/wkhtmltoimage.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\rotativa\\wkhtmltoimage.exe"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\PdfGeneraterApi\\PdfGeneraterApi\\wwwroot\\rotativa\\wkhtmltopdf.exe",
+      "SourceId": "PdfGeneraterApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\PdfGeneraterApi\\PdfGeneraterApi\\wwwroot\\",
+      "BasePath": "_content/PdfGeneraterApi",
+      "RelativePath": "rotativa/wkhtmltopdf.exe",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\PdfGeneraterApi\\PdfGeneraterApi\\wwwroot\\rotativa\\wkhtmltox.dll",
+      "SourceId": "PdfGeneraterApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\PdfGeneraterApi\\PdfGeneraterApi\\wwwroot\\",
+      "BasePath": "_content/PdfGeneraterApi",
+      "RelativePath": "rotativa/wkhtmltox.dll",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\rotativa\\wkhtmltox.dll"
+    }
+  ]
+}
